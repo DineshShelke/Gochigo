@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#29c5f6</color>
+    <color name="colorPrimaryDark">#23a7d8</color>
+    <color name="colorAccent">#FFFFFF</color>
+
+    <color name="gradStart">#19AA8B</color>
+    <color name="gradStop">#23a7d8</color>
+
+    <color name="eidttextback">#dadada</color>
+    <color name="textcolor">#9a9a9a</color>
+
+    <color name="facebookblue">#3f5996</color>
+    <color name="twitterblue">#29c5f6</color>
+    <color name="googlered">#D03E2F</color>
+
+    <color name="colorwhite">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="red">#F15050</color>
+    <color name="red_dark">#d43c3c</color>
+
+    <color name="yellow">#FFFF00</color>
+    <color name="yellow_dark">#d4bb46</color>
+
+    <color name="lime">#BCE24A</color>
+    <color name="lime_dark">#9dbf35</color>
+
+    <color name="green">#5bbc59</color>
+    <color name="green_dark">#248e50</color>
+
+    <color name="blue">#48dfe1</color>
+    <color name="blue_dark">#37c4c6</color>
+
+    <color name="dark_blue">#5a9cee</color>
+    <color name="darkblue_dark">#417eca</color>
+
+    <color name="darkviolet">#7e50f1</color>
+    <color name="darkviolet_dark">#683dd4</color>
+
+    <color name="violet">#d65aee</color>
+    <color name="violet_dark">#b33ec9</color>
+
+    <color name="white">#ffffff</color>
+
+
+    <color name="endblue">#0bcce6</color>
+    <!--<color name="colorPrimaryDark">#273833</color>-->
+    <color name="back">#000</color>
+    <color name="lightorange">#fdf2df</color>
+    <color name="lightorangedark">#ebd6ab</color>
+    <color name="graylight">#fafafa</color>
+    <color name="startblue">#09c6df</color>
+
+</resources>
+
